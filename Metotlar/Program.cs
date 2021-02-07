@@ -27,7 +27,7 @@ namespace Metotlar
             urun3.Fiyati = 20;
             urun3.ÜretimYeri = "Diyarbakır";
             urun3.Kilo = 10000;
-
+               
 
 
 
