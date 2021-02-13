@@ -99,7 +99,7 @@ namespace fabrikaMakıneOdev
             makine10.Calisiyormu = "Evet";
             makine10.HurdayaVerilecekmi = "Winner10 Verilmeyecek";
 
-            Makine[] makineler = new Makine[] { makine1, makine2, makine3, makine4, makine5, makine6, makine7, makine8, makine9, makine10 };
+            Makine[] makineler = new Makine[] { makine1, makine2, makine3, makine4, makine5, makine6, makine7, makine8, makine9};
 
             foreach (var makine in makineler)
             {
