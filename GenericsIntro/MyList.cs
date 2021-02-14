@@ -16,7 +16,7 @@ namespace GenericsIntro
         {
             T[] tempArray = items;
             items = new T[items.Length+1];
-            for (int i = 0; i < tempArray.length; i++)
+            for (int i = 0; i < tempArray.Length; i++)
             {
                 items[i] = tempArray[i];
             }
