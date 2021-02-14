@@ -17,6 +17,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMetotDemo", "ClassMeto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "Dictionary\Dictionary.csproj", "{F5C3E929-FF1A-478E-8A15-07A80EE346E1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", "{F1FF3BBF-B334-45B5-ACBB-0C9C659FD8B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{EBC040EB-3C9F-418B-AD95-09FF8444444A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{F5C3E929-FF1A-478E-8A15-07A80EE346E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5C3E929-FF1A-478E-8A15-07A80EE346E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5C3E929-FF1A-478E-8A15-07A80EE346E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1FF3BBF-B334-45B5-ACBB-0C9C659FD8B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1FF3BBF-B334-45B5-ACBB-0C9C659FD8B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1FF3BBF-B334-45B5-ACBB-0C9C659FD8B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1FF3BBF-B334-45B5-ACBB-0C9C659FD8B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBC040EB-3C9F-418B-AD95-09FF8444444A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC040EB-3C9F-418B-AD95-09FF8444444A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBC040EB-3C9F-418B-AD95-09FF8444444A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC040EB-3C9F-418B-AD95-09FF8444444A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
